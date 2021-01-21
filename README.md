@@ -22,7 +22,7 @@ tagnameには末尾に'-'が付くものがありますが、その'-'は削除�
     "groupId": 1,
     "foodId": 1001,
     "indexId": 1,
-    "tagnames": "アマランサス 玄穀",
+    "foodName": "アマランサス 玄穀",
     "refuse": 0,
     "enerc": 1452,
     "enercKcal": 343,
